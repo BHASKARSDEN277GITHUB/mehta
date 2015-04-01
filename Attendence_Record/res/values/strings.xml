@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Attendence_Record</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string-array name="sem">
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+        <item>"6"</item>
+        <item>"7"</item>
+        <item>"8"</item>
+        
+        
+    </string-array>
+    <string-array name="section">
+        <item>"A"</item>
+        <item>"B"</item>
+        <item>"C"</item>
+        <item>"D"</item>
+      
+    </string-array>
+    <string-array name="group">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        
+    </string-array>
+    
+    <string-array name="sem8">
+        <item>"Ad-hoc Networking"</item>
+        <item>"Software Testing"</item>
+        <item>"Neural Networks"</item>
+        <item>"Android"</item>
+        
+    </string-array>
+    
+    <string-array name="sem3">
+        <item>"Ad-hoc Networking"</item>
+        <item>"Software Testing"</item>
+        <item>"Neural Networks"</item>
+        <item>"Android"</item>
+        <item>"Neural Networks"</item>
+        <item>"Android"</item>
+        
+    </string-array>
+     <string-array name="sem4">
+        <item>"Ad-hoc Networking"</item>
+        <item>"Software Testing"</item>
+        <item>"Neural Networks"</item>
+        <item>"Android"</item>
+        <item>"Neural Networks"</item>
+        <item>"Android"</item>
+        
+    </string-array>
+     <string-array name="sem5">
+        <item>"Ad-hoc Networking"</item>
+        <item>"Software Testing"</item>
+        <item>"Neural Networks"</item>
+        <item>"Android"</item>
+        <item>"Neural Networks"</item>
+        <item>"Android"</item>
+        
+    </string-array>
+     <string-array name="sem6">
+        <item>"Ad-hoc Networking"</item>
+        <item>"Software Testing"</item>
+        <item>"Neural Networks"</item>
+        <item>"Android"</item>
+        <item>"Neural Networks"</item>
+       
+        
+    </string-array>
+     <string-array name="sem7">
+        <item>"Ad-hoc Networking"</item>
+        <item>"Software Testing"</item>
+        <item>"Neural Networks"</item>
+        <item>"Android"</item>
+        <item>"Neural Networks"</item>
+        
+        
+    </string-array>
+     
+
+</resources>

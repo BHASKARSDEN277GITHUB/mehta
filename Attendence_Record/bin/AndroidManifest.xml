@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.attendence_record"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/attendence"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Light" >
+        <activity
+            android:name="com.example.attendence_record.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="details"
+            android:label="Attendence_Record/Details" >
+        </activity>
+        <activity
+            android:name="attendence"
+            android:label="Attendence_Record" >
+        </activity>
+        <activity
+            android:name="timetable"
+            android:label="Time Table" >
+        </activity>
+        <activity
+            android:name="attendencedisplay"
+            android:label="Time Table" >
+        </activity>
+        <activity
+            android:name="timedisplay"
+            android:label="Time Table" >
+        </activity>
+        
+        
+    </application>
+
+</manifest>

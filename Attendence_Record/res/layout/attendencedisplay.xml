@@ -1,0 +1,38 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+<RelativeLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <Button
+        android:id="@+id/buttonPlus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textBunks"
+        android:layout_marginRight="26dp"
+        android:layout_marginTop="83dp"
+        android:layout_toLeftOf="@+id/textBunks"
+        android:text="+" />
+
+    <TextView
+        android:id="@+id/textBunks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="82dp"
+        android:text="Number of Bunks" />
+
+    <Button
+        android:id="@+id/buttonMinus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/buttonPlus"
+        android:layout_marginLeft="29dp"
+        android:layout_toRightOf="@+id/textBunks"
+        android:text="-" />
+
+</RelativeLayout>
+</ScrollView>
